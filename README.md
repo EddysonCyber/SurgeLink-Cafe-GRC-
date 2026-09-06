@@ -1,0 +1,1 @@
+GRC portfolio overview. Current projects, Surge Link Cafe risk register and Acceptable Use Policy. Skills demonstrated, governance, risk management, policy writing, ISO 27001 awareness. About this repository, part of your cybersecurity portfolio with more documents to come.
